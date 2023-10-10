@@ -11,12 +11,15 @@
 
 ## How to run?
 
-PREREQUISITES:
+**IMPORTANT NOTE:**
+This program was developed in Intellij IDEA, with the help of **Cursive** plugin for Clojure.
+
+**Prerequisites:**
 
 - You need to have `clojure cli tools installed on your machine`. For more info, check out the: [official clojure installation page](https://clojure.org/guides/install_clojure).
 - In order to run the `sentiment_analysis` example, you need to have a RapidAPI key for the **Twinword Sentiment Analysis API**, check it out: [here](https://rapidapi.com/twinword/api/sentiment-analysis).
 
-RUNNING EXAMPLES:
+**Running programs:**
 
 (`word_count` and `word_frequencies`):
 - cd into the root directory of the project.
