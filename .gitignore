@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled Clojure files
+/target/
+
+# Leiningen
+.lein-deps-sum
+.lein-failures
+.lein-plugins/
+.lein-repl-history
+.lein-repl-history.lock
+.lein-shadow/
+lein-shadow.out
+shadow-cljs.edn
+
+# Cursive
+.cursive/
+
+# Dependencies
+/lib/
+
+# Logs
+/logs/
+
+# Temporary files
+/.lein-repl-history
+/repl.clj
+/pom.xml
+/dep.edn
+*.jar
