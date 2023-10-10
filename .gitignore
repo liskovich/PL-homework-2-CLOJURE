@@ -1,5 +1,7 @@
 # IntelliJ IDEA
 .idea/
+.cpcache/
+hw_2_liskovskis.iml
 
 # Compiled Clojure files
 /target/
